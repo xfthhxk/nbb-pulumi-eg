@@ -1,0 +1,9 @@
+{
+    "name": "nbb-pulumi-eg",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/pulumi": "^3.0.0",
+        "@pulumi/random": "^4.3.1",
+        "nbb": "^0.0.109"
+    }
+}
